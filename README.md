@@ -131,7 +131,5 @@ ws.mainloop()
 
 ### Usage
 To run the script, simply execute it with Python:
-```bash
-python module1.py
-```
+
 The script processes the gate entry data, calculates statistics, and displays the results in a graphical user interface.
